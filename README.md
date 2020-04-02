@@ -1,2 +1,2 @@
 # core_java_projects
-Some of my projects on core java
+Some of my projects with core java technology
